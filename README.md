@@ -1,2 +1,2 @@
-# RenkliKareler
-Animasyonlu Renkli Kareler
+Colored Squares
+Animated Color Squares
